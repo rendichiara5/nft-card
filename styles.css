@@ -23,8 +23,8 @@ body {
 
 .main-container {
     width: 327px;
-    height: 543px;
-    margin: 62px auto;
+    height: auto;
+    margin: 2% auto;
     padding: 24px;
     border-radius: 15px;
     background-color: var(--Very-dark-blue-Card);
@@ -131,14 +131,14 @@ body {
 /*--------------Desktop-------------*/
 @media (min-width: 900px) {
     body {
-        width: 1440px;
-        height: 900px;
+        width: 100%;
+        height: auto;
     }
 
     .main-container {
         width: 350px;
         height: 596px;
-        margin: 152px auto;
+        margin: 0.5% auto;
     }
 
     .container__image {
