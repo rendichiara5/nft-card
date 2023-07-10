@@ -24,7 +24,7 @@ body {
 .main-container {
     width: 327px;
     height: auto;
-    margin: 2% auto;
+    margin: 62px auto;
     padding: 24px;
     border-radius: 15px;
     background-color: var(--Very-dark-blue-Card);
@@ -138,7 +138,7 @@ body {
     .main-container {
         width: 350px;
         height: 596px;
-        margin: 0.5% auto;
+        margin: 100px auto;
     }
 
     .container__image {
@@ -159,14 +159,6 @@ body {
         margin-bottom: 24px;
     }
 }
-
-
-
-
-
-
-
-
 
 
 /*----------------footer----------------*/
